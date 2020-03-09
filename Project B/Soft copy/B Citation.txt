@@ -1,0 +1,25 @@
+https://pdfs.semanticscholar.org/be4b/21c3f015be49dd8761d55ddc471f0bda923a.pdf
+
+https://www.researchgate.net/publication/317399857_HBase_A_NoSQL_Database
+
+https://data-flair.training/blogs/features-of-hbase/
+
+https://www.tutorialsjar.com/key-features-of-mongodb/
+
+https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783985944/1/ch01lvl1sec10/hbase-features
+
+https://intellipaat.com/blog/what-is-mongodb/
+
+https://docs.mongodb.com/master/core/transactions/?_ga=2.263880395.615548714.1545160200-643914588.1545061663
+
+https://docs.mongodb.com/manual/core/transactions/
+
+https://www.mongodb.com/blog/post/mongodb-multi-document-acid-transactions-general-availability
+
+Moniruzzaman, A. and Akhter Hossain, S. (2013). NoSQL Database: New Era of Databases for Big data Analytics - Classification, Characteristics and Comparison. International Journal of Database Theory and Application, 6(4).
+
+Jain, V. and Upadhyay, A. (2017). MongoDB and NoSQL Databases. International Journal of Computer Applications, 167(10)
+
+Goyal, A. (2017). HBase - Hadoop Database.
+
+MATALLAH, H. (2017). EXPERIMENTAL COMPARATIVE STUDY OF NoSQL DATABASES: HBASE VERSUS MONGODB BY YCSB.
